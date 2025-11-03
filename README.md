@@ -1,6 +1,9 @@
 # Strategic Evaluation of Shivam Cement Ltd
 ### **Integrating Sustainability, Ethics, and Leadership for Global Competitiveness**
 
+![alt_image](https://media.licdn.com/dms/image/v2/D563DAQH7Q_6OfAarUQ/image-scale_191_1128/image-scale_191_1128/0/1689850252582/shivam_cement_limited_cover?e=2147483647&v=beta&t=0ektqqa3bgZt0zSR47zyKdrrhSFaEN6PDyYd5ys4KlE)
+
+
 ![Status](https://img.shields.io/badge/status-ready-green)
 ![Level](https://img.shields.io/badge/level-MSc%20Management-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
